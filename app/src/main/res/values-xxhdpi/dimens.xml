@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_elevation">2dp</dimen>
+
+    <dimen name="text_size_22">20sp</dimen>
+    <dimen name="text_size_18">16sp</dimen>
+    <dimen name="text_size_16">14sp</dimen>
+    <dimen name="text_size_14">12sp</dimen>
+    <dimen name="text_size_12">10sp</dimen>
+
+    <dimen name="gap_30">25dp</dimen>
+    <dimen name="gap_30_min">-25dp</dimen>
+    <dimen name="gap_25_min">-21dp</dimen>
+    <dimen name="gap_20">17dp</dimen>
+    <dimen name="gap_20_min">-17dp</dimen>
+    <dimen name="gap_15">13dp</dimen>
+    <dimen name="gap_10">8dp</dimen>
+    <dimen name="gap_10_min">-8dp</dimen>
+    <dimen name="gap_5">4.5dp</dimen>
+    <dimen name="gap_3">2.5dp</dimen>
+
+</resources>
